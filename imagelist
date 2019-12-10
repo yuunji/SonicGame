@@ -1,0 +1,38 @@
+tails images/tails0.bmp 255 255 255 0
+tails images/tails1.bmp
+tails images/tails2.bmp
+tails images/tails3.bmp
+tails images/tails4.bmp
+tails images/tails5.bmp
+tails images/tails6.bmp
+shadow images/shadow01.bmp 255 255 255 128
+shadow images/shadow02.bmp 255 255 255 128
+shadow images/shadow03.bmp 255 255 255 128
+shadow images/shadow04.bmp 255 255 255 128
+shadow images/shadow05.bmp 255 255 255 128
+shadow images/shadow06.bmp 255 255 255 128
+shadow images/shadow07.bmp 255 255 255 128
+shadow images/shadow08.bmp 255 255 255 128
+shadow images/shadow09.bmp 255 255 255 128
+shadow images/shadow10.bmp 255 255 255 128
+shadow images/shadow11.bmp 255 255 255 128
+shadow images/shadow11.bmp 255 255 255 128
+ground images/ground.bmp 255 255 255 0
+sonic images/s1.bmp 255 255 255 0
+sonic images/s2.bmp 255 255 255 0
+sonic images/s3.bmp 255 255 255 0
+sonic images/s4.bmp 255 255 255 0
+sonic images/s5.bmp 255 255 255 0
+eggman images/eggman.bmp
+spike images/spike.bmp 255 255 255 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+grass images/grass.bmp
+ring images/ring.bmp 255 255 255 0
+background_default images/none.bmp
+lava images/lava.bmp 255 255 255 0
+coin images/coin.bmp 255 255 255 0
