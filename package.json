@@ -5,7 +5,7 @@
     }
     
   
-"scripts": 
+"scripts" 
   {
   "start": "src/VirtualWorld.java"
   }
