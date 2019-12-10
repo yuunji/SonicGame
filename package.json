@@ -6,11 +6,12 @@
      {
        "url": "heroku/ruby"
      }
-   ]
+   ],
   
- }
-
-
   "scripts": {
   "start": "src/VirtualWorld.java"
+} 
+
+
+
 }
