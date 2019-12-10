@@ -1,13 +1,10 @@
 {
-   "buildpacks": [
+   "buildpacks": 
      {
        "url": "https://github.com/heroku/heroku-buildpack-java"
      },
-     {
-       "url": "heroku/ruby"
-     }
-   ],
-  
+   
+ 
   "scripts": {
   "start": "src/VirtualWorld.java"
 } 
