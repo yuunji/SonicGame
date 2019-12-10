@@ -8,8 +8,9 @@
      }
    ]
   
+ }
+
+
   "scripts": {
   "start": "src/VirtualWorld.java"
 }
-  
- }
